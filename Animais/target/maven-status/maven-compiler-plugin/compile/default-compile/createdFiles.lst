@@ -1,0 +1,4 @@
+br\com\animais\model\Animal.class
+br\com\animais\animais\servlet\EntradaServlet.class
+br\com\animais\model\AnimalDAO.class
+br\com\animais\model\ConnectionFactory.class
